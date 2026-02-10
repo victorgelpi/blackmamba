@@ -1,2 +1,2 @@
 # blackmamba
-made with rares e and winston h
+Predicting results on Polymarkt and Kalshi
